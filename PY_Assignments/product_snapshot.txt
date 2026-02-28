@@ -1,0 +1,3 @@
+T-shirt	19.99	Clothing
+Sneakers	79.99	Footwear
+Watch	59.99	Accessories
